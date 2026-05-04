@@ -128,6 +128,12 @@ MACchanger/
 
 MACchanger does not modify the hardware ROM address. It only requests a temporary link-layer address change from macOS. Use it only on networks and devices you own or are authorized to test.
 
+## Legal / Responsible Use
+
+MACchanger is intended for privacy, troubleshooting, testing, and authorized network administration on devices and networks you own or have permission to use.
+
+Do not use this tool to bypass network access controls, impersonate another device, evade bans, avoid payment, disrupt networks, or access systems without authorization. You are responsible for complying with local laws, network policies, and terms of service.
+
 ## License
 
 MIT License. See `LICENSE`.
