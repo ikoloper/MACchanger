@@ -1,0 +1,17 @@
+[project]
+name = "macchanger"
+version = "1.0.0"
+description = "Native macOS temporary MAC address changer with an M-series Wi-Fi strategy"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+authors = [
+    { name = "Yasin Uslugil" }
+]
+dependencies = [
+    "pyinstaller>=6.20.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/ikoloper/MACchanger"
+Issues = "https://github.com/ikoloper/MACchanger/issues"
